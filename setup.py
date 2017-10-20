@@ -14,7 +14,7 @@ setup(
     long_description=readme,
     author=authors,
     author_email='',
-    url='https://github.com/JoeGlancy/microperi',
+    url='https://github.com/c0d3st0rm/microperi',
     scripts = [],
     license='mit',
     install_requires=[],

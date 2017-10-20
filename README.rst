@@ -1,3 +1,6 @@
+NOTE: This is the dev branch.
+=============================
+
 ===============================
 MicroPeri for the BBC micro:bit
 ===============================
@@ -24,6 +27,7 @@ Notes:
 
 Usage
 =====
+(outdated)
 .. code-block:: python
 
     import microperi

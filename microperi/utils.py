@@ -1,5 +1,5 @@
 # utils.py
-# Part of MicroPeri https://github.com/JoeGlancy/microperi
+# Part of MicroPeri https://github.com/c0d3st0rm/microperi
 #
 # See LICENSE file for copyright and license details
 
