@@ -10,7 +10,7 @@ With it, you can quickly for example read accelerator values, button presses or 
 
 Installation
 ============
-1. You must first make sure you have a blank MicroPython .hex file loaded onto your Microbit. You can create one `here <https://www.microbit.co.uk/app/#create:xyelfe>`_.
+1. You must first make sure you have a blank MicroPython .hex file loaded onto your Microbit. You can create one `here <https://python.microbit.org>`_.
 2. If using Windows, you must have the ARM mbed USB serial driver installed. It can be downloaded from the `mbed site <https://developer.mbed.org/handbook/Windows-serial-configuration>`_.
 3. Either install the library with (soon):
 
